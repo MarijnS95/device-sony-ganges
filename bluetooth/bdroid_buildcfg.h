@@ -61,4 +61,6 @@ static inline const char* getBTDefaultName()
 // Vendor extensions
 #define BLE_VND_INCLUDED TRUE
 
+#define BTA_AV_SINK_INCLUDED TRUE
+
 #endif
